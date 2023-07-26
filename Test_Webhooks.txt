@@ -1,2 +1,3 @@
 TEst file
-added sonar server for build
+Added sonar server for build
+Now adding Docker for deployment 
