@@ -1,3 +1,4 @@
 TEst file
 Added sonar server for build
 Now adding Docker for deployment 
+Adding new server for Jenkins
