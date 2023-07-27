@@ -1,2 +1,2 @@
 FROM nginx
-run . .
+COPY . /Testhost
